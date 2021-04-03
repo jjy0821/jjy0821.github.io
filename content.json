@@ -1,1 +1,1 @@
-{"pages":[],"posts":[{"title":"new post","text":"","link":"/2021/04/03/new-post/"}],"tags":[],"categories":[]}
+{"pages":[],"posts":[{"title":"TO DO LIST","text":"리액트로 TO DO LIST 구현하기CRUD … 입력창에 새로 입력한 내용이 데이터로 추가되어야한다. 추가된 데이터를 렌더링하여 웹페이지로 읽어올 수 있어야한다. 기존에 작성된 내용을 수정하여 업데이트 할 수 있어야한다. delete 버튼을 눌렀을 떄, 목록에서 삭제 될 수 있어야 한다. ! update 파트를 구현하기 위해서 hook 이용하여 수정해보기","link":"/2021/04/03/new-post/"}],"tags":[],"categories":[]}
